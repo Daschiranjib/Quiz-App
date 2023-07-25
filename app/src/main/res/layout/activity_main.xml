@@ -19,7 +19,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Neat Roots Quiz App"
+        android:text="Quiz App"
         android:textColor="@color/white"
         android:textSize="32sp"
         android:textStyle="bold"
